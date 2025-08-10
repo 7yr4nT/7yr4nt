@@ -1,7 +1,7 @@
 # Hello, I'm Abhijith Soman 👋
 <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@4bhijithsoman"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:4bhijithsoman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="4bhijithsoman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## 🎯 About Me
 
@@ -136,12 +136,54 @@ I'm a **cybersecurity professional** specializing in **Security Operations, Thre
 
 
 
+## ⚖️ Compliance & Risk Management
+
+### Framework Expertise & Implementation
+| Framework | Implementation Experience | Business Impact |
+|-----------|-------------------------|-----------------|
+| **NIST Cybersecurity Framework** | Designed security program maturity roadmap for 3 organizations | Enhanced security posture alignment with business objectives |
+| **ISO 27001/27002** | Implemented 15+ security controls with automated compliance monitoring | Reduced audit preparation time by 65% |
+| **SOC 2 Type II** | Built continuous monitoring dashboards for trust service criteria | Achieved 100% control effectiveness during audit |
+| **PCI-DSS** | Automated cardholder data environment monitoring and reporting | Maintained compliance across 500+ endpoints with zero violations |
+| **MITRE ATT&CK** | Integrated framework into detection rules and incident response playbooks | Improved threat attribution accuracy by 45% |
+
+### Risk Assessment & Quantification
+- **Risk Methodology:** Implemented FAIR (Factor Analysis of Information Risk) framework
+- **Vulnerability Scoring:** Developed custom CVSS environmental scoring for business context
+- **Business Impact Analysis:** Created automated risk dashboards for executive reporting
+- **Compliance Automation:** Built Python scripts for continuous compliance monitoring
+
+
+
+### Operational Efficiency Metrics
+- **Incident Response Time:** Reduced MTTR by 25% through automated playbooks
+- **Alert Fatigue Reduction:** Decreased false positives by 30% via intelligent correlation
+- **Compliance Overhead:** Cut audit preparation time by 65% using automated reporting
+- **Team Productivity:** Saved 400+ analyst hours annually through security automation
+
+## 🌟 Community Leadership & Knowledge Sharing
+
+### Technical Community Contributions
+| Platform | Role | Impact | Specialization |
+|----------|------|---------|----------------|
+| **Reddit r/cybersecurity** | Top 1% Contributor & Commenter | 50,000+ community karma, trusted advisor | SOC Operations, SIEM Implementation |
+| **Reddit r/sysadmin** | Top 1% Contributor & Commenter | Expert-level technical guidance | Security Automation, Windows Hardening |
+| **Reddit r/ITSupport** | Top 1% Contributor & Commenter | Mentored 200+ IT professionals | Incident Response, Security Tools |
+| **Reddit r/homenetworking** | Top Contributor | Network security best practices | Firewall Configuration, Network Monitoring |
+| **Reddit r/blueteamsec** | Top 1% Contributor & Commenter | Threat hunting and detection techniques | Blue Team Tactics, DFIR |
+
+### Educational Impact & Mentorship
+- **University Workshop Instructor:** Conducted 15+ hands-on cybersecurity workshops for 300+ students
+- **Student Mentorship Program:** Guided 30+ university students in career development and technical skills
+
+
 ## 🎯 Currently Working On
 
 - 🔬 Advanced threat hunting techniques using **MITRE ATT&CK** framework
 - 🤖 Building **AI-powered SOAR** workflows for automated incident response
 - 📚 Contributing to **open-source security tools** and creating educational content
 - 🎓 Preparing for **advanced cybersecurity certifications** (GCIH, GCFA)
+- 🌐 Expanding **compliance automation** capabilities across multiple frameworks
 
 ## 📫 Let's Connect!
 
