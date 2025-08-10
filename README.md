@@ -95,13 +95,14 @@ I'm a **cybersecurity professional** specializing in **Security Operations, Thre
 
 ## 🛠️ Hands-On Security Projects
 
-| Project | Key Technologies | Skills Demonstrated | Repository |
-|---------|------------------|-------------------|------------|
-| **Azure Entra ID Security Homelab** | Azure Entra ID, Microsoft Sentinel, Splunk, Sysmon, Terraform, Python | Cloud Security Architecture, Identity Management, Threat Detection, Infrastructure as Code | [🔗 View Project](https://github.com/your-username/azure-security-homelab) |
-| **Mini SOC Environment** | ELK Stack, Wazuh, pfSense, Active Directory, Tines, Mythic C2, Sysmon | SOC Operations, Network Security, Incident Response, Attack Simulation | [🔗 View Project](https://github.com/your-username/mini-soc-lab) |
-| **SOAR-EDR Integration Lab** | LimaCharlie, Tines, Wazuh, VirusTotal API, Atomic Red Team, Metasploit | Security Orchestration, Threat Intelligence, EDR Management, Automation | [🔗 View Project](https://github.com/your-username/soar-edr-lab) |
-| **SOC Monitoring Dashboard** | Splunk, ELK Stack, Prometheus, Shuffle, pfSense, Elastic Defend | Data Visualization, Metrics Analysis, Real-time Monitoring, Performance Optimization | [🔗 View Project](https://github.com/your-username/soc-dashboard) |
-
+| Project                                         | Key Technologies                                  | Skills Demonstrated                                                       | Repository                                                                              |
+| :---------------------------------------------- | :------------------------------------------------ | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------- |
+| **Automated Zero Trust Hybrid Cloud Network** | Azure, Terraform, Entra ID, pfSense, Tailscale, Docker | Hybrid Cloud Architecture, IaC, Zero Trust Security, Identity Management, Network Automation | [🔗 View Project](https://github.com/your-username/azure-hybrid-zerotrust-lab) |
+| **Azure Entra ID Security Homelab** | Azure Entra ID, Microsoft Sentinel, Splunk, Sysmon, Terraform, Python | Cloud Security Architecture, Identity Management, Threat Detection, Infrastructure as Code | [🔗 View Project](https://github.com/your-username/azure-security-homelab)              |
+| **Mini SOC Environment** | ELK Stack, Wazuh, pfSense, Active Directory, Tines, Mythic C2, Sysmon | SOC Operations, Network Security, Incident Response, Attack Simulation    | [🔗 View Project](https://github.com/your-username/mini-soc-lab)                        |
+| **SOAR-EDR Integration Lab** | LimaCharlie, Tines, Wazuh, VirusTotal API, Atomic Red Team, Metasploit | Security Orchestration, Threat Intelligence, EDR Management, Automation   | [🔗 View Project](https://github.com/your-username/soar-edr-lab)                        |
+| **SOC Monitoring Dashboard** | Splunk, ELK Stack, Prometheus, Shuffle, pfSense, Elastic Defend | Data Visualization, Metrics Analysis, Real-time Monitoring, Performance Optimization | [🔗 View Project](https://github.com/your-username/soc-dashboard)  
+|
 ## 🎯 Project-Based Skills Matrix
 
 ### 🔍 **Threat Detection & Analysis**
